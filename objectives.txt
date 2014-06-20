@@ -1,0 +1,15 @@
+Project (Lakewinds) Objectives
+
+-Slice design from ground up - 100% my code
+    -Code and style using HTML5 and CSS3 as much as possible
+-Keep in mind:
+    -proper indentation
+    -proper syntax
+    -best practices
+
+Future:
+-Add JavaScript functionality where possible
+    -Add front end validation to contact form
+-Add PHP functionality where possible
+    -Make contact form functional
+    -Add back end validation to contact form
