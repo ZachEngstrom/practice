@@ -1,0 +1,12 @@
+#design {
+	border-top: none;
+}
+
+#design .design {
+	background-image: url(/themes/lakewinds/assets/img/homepage_design.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	height: 2251px;
+	width: 1150px;
+	margin: 0 auto;
+}
